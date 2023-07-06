@@ -1,5 +1,4 @@
 import { useNavigate } from "react-router-dom"
-import ProductDetails from "./ProductDetails"
 
 const Card = (props) => {
   const {id, imageUrl, title, price} = props;

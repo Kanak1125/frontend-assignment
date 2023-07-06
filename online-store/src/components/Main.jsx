@@ -1,5 +1,4 @@
 import Card from './Card'
-import { Route, RouterProvider } from 'react-router-dom'
 
 const Main = ({data}) => {
     return (
